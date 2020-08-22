@@ -25,3 +25,5 @@ yarn ship
 ```
 
 That version gets shipped to beta testers but might not actually be the version released to the store.
+# my view on app
+It is very good app
